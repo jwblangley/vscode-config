@@ -1,4 +1,4 @@
-// Place your key bindings in this file to override the defaults
+// Place your key bindings in this file to override the defaultsauto[]
 [
     {
         "key": "ctrl+up",
@@ -39,5 +39,15 @@
         "key": "ctrl+down",
         "command": "-scrollLineDown",
         "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "editor.action.insertCursorAtEndOfEachLineSelected",
+        "when": "editorHasSelection && editorTextFocus"
+    },
+    {
+        "key": "shift+alt+l",
+        "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
+        "when": "editorHasSelection && editorTextFocus"
     }
 ]
