@@ -2,5 +2,6 @@
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "workbench.startupEditor": "newUntitledFile",
     "editor.multiCursorModifier": "ctrlCmd",
+    "latex-workshop.view.pdf.viewer": "tab",
     "window.zoomLevel": -1
 }
