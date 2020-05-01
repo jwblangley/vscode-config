@@ -4,4 +4,7 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "latex-workshop.view.pdf.viewer": "tab",
     "window.zoomLevel": -1
+    "files.eol": "\n",
+    "editor.trimAutoWhitespace": true,
+    "files.trimTrailingWhitespace": true
 }
