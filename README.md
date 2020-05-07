@@ -2,6 +2,7 @@
 Repository to store my vscode settings, keymaps and installed extensions.
 
 ## Usage
+First install [vscode](https://code.visualstudio.com/)
 ### Settings and Keymap
 Copy the contents of the JSON files to their respective local versions.
 ### Install extensions
