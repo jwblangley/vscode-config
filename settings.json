@@ -8,5 +8,6 @@
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "latex-workshop.latex.autoBuild.run": "onSave"
 }
