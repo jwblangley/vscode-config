@@ -1,5 +1,4 @@
 {
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "workbench.startupEditor": "newUntitledFile",
     "editor.multiCursorModifier": "ctrlCmd",
     "latex-workshop.view.pdf.viewer": "tab",
@@ -8,6 +7,7 @@
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
     "editor.formatOnPaste": true,
     "latex-workshop.latex.autoBuild.run": "onSave"
 }
