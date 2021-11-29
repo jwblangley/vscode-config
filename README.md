@@ -1,4 +1,5 @@
 # vscode config
+## Archived and absorbed into https://github.com/jwblangley/dotfiles
 Repository to store my vscode settings, keymaps and installed extensions.
 
 ## Usage
